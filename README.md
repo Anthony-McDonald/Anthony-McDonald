@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anthony-McDonald
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning html, css and JavaScript 
 - 💞️ I’m looking to collaborate on nothing as of the moment
 - 📫 I can be reached by email! anthonymcdonald2001@hotmail.com
