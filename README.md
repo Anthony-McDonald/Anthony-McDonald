@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web development and slightly dabbling in game development.**
 
-- 👨‍💻 All of my projects are available at [This github page you are on!](This github page you are on!)
+- 👨‍💻 All of my projects are available at [This github page you are on!]
 
 - 💬 Ask me about **Anything you want, I love a good conversation 😁**
 
