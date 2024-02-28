@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A passionate frontend developer from Scotland</h3>
 
-- 🔭 I’m currently working on [A to-do-list web app](https://github.com/Anthony-McDonald/to-do-list)
-
+- 🔭 I’m currently working on [A web implementation of battleships!]
+  
 - 🌱 I’m currently learning **Web development and slightly dabbling in game development.**
 
 - 👨‍💻 All of my projects are available at [This github page you are on!]
