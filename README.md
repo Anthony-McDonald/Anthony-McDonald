@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A passionate software developer from Scotland</h3>
 
-- 🔭 I’m currently working on [Learning React!]
+- 🔭 I’m currently working on [Recomeats, an AI powered Food Recommendation WebApp]
   
 - 🌱 I’m currently learning **Web development and slightly dabbling in game development.**
 
