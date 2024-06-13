@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [my final project for my masters at University of Glasgow!]
   
-- 🌱 I’m currently learning **Web development and slightly dabbling in game development.**
+- 🌱 I’m currently working on **expanding my skills in different languages and frameworks! **
 
 - 👨‍💻 All of my projects are available at [This github page you are on!]
 
-- 💬 Ask me about **Anything you want, I love a good conversation 😁**
+- 💬 Ask me about **the latest tech trends, I'm always keeping up with industry news😁**
 
 - 📫 How to reach me **anthonymcdonald2001@hotmail.com**
 
