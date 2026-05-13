@@ -26,7 +26,8 @@
 </div>
 
 ### Employer?
-[!IMPORTANT]  
-[Download my resume](https://1drv.ms/b/c/d80843e50e0fb2b9/IQDQHbkAWgDbQqc-9tojP0h0AcJbnDdvSDqA2LuajgH2tOg?e=CZAp5Y)
+> [!IMPORTANT]  
+> <a href="https://1drv.ms/b/c/d80843e50e0fb2b9/IQDQHbkAWgDbQqc-9tojP0h0AcJbnDdvSDqA2LuajgH2tOg?e=CZAp5Y" download>Download my resume</a>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1DA1CF&descAlign=79&descAlignY=56&fontColor=FFFFFF&section=footer" alt="footer"/>
