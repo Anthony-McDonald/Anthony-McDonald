@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1DA1CF&text=Anthony%20McDonald&descAlign=79&descAlignY=56&fontColor=FFFFFF" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=1DA1CF&text=Anthony%20McDonald&fontColor=FFFFFF&fontSize=60&fontAlignY=41" alt="header"/> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
 
@@ -30,4 +30,4 @@
 > <a href="https://1drv.ms/b/c/d80843e50e0fb2b9/IQDQHbkAWgDbQqc-9tojP0h0AcJbnDdvSDqA2LuajgH2tOg?e=CZAp5Y" download>Download my resume</a>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1DA1CF&descAlign=79&descAlignY=56&fontColor=FFFFFF&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=1DA1CF&fontColor=FFFFFF&fontSize=60&fontAlignY=41&section=footer" alt="footer"/>
